@@ -1,5 +1,4 @@
-# Iotj - Efficient Federated Clustering with Gradient Search Optimization for Medical Edge Networks
-
+# ACM MM Title：PIFCA: Optimizing Federated Clustering with Gradient Space Search in Non-IID Data
 ### Experiment Setup
 
 The basic framework used in this experiment is based on **PFLlib**(https://www.pfllib.com/docs.html), with some modifications to the original code as per the references in the paper.
