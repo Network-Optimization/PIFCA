@@ -8,6 +8,9 @@ The basic framework used in this experiment is based on **PFLlib**(https://www.p
   - FMNIST  
   - MNIST  
   - SVHN
+  - BloodMNIST
+  - DermaMNIST
+  - OrganAMNIST
   - CIFAR-10
   - CIFAR-100
 
