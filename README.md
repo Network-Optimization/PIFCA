@@ -1,4 +1,4 @@
-# PIFCA: Efficient Federated Clustering with Gradient Search Optimization for Medical Edge Networks 🔥🔥🔥
+# 🔥🔥PIFCA: Federated Clustering Addressing Non-IID Skew With Gradient Space Disentanglement
 
 <p align="center">
   <img src="mm.png" alt="PIFCA Overview" width="80%">
